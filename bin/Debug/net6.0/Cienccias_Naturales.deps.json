@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cienccias_Naturales/1.0.0": {
+        "runtime": {
+          "Cienccias_Naturales.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cienccias_Naturales/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
